@@ -114,12 +114,8 @@ anchor test
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## Contact
 
-For any questions or support, contact [Your Name/Team Name] at [Your Email Address].
+For any questions or support, contact us at 21cs2016@rgipt.ac.in.
